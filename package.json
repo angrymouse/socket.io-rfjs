@@ -1,0 +1,19 @@
+{
+  "name": "socket.io-rfjs",
+  "version": "0.0.1",
+  "description": "Integration of RF.js RPC engine and socket.io",
+  "main": "index.js",
+  "repository": "https://github.com/angrymouse/socketio-rfjs",
+  "author": "Angrymouse <rykov.nikas@gmail.com>",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "remote-functions": "^0.1.3"
+  
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^19.0.0",
+    "rollup-plugin-terser": "^7.0.2",  "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "keywords": ["rpc","socket.io","socketio","ws","websockets","realtime","rfjs","rf.js","remote-functions"]
+}
